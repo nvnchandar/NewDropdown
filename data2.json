@@ -1,0 +1,6 @@
+{
+  "com2": {
+    "gsmList": ["gsm2", "gsm3", "gsm5"],
+    "cfgList": ["cf4", "cf9", "cf6", "cf7", "cf10", "cf11"]
+  }
+}
